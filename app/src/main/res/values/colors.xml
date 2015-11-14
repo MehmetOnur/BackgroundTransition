@@ -4,10 +4,10 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
 
-    <color name="Page1Bg">#b4222a</color>
-    <color name="Page2Bg">#d81723</color>
-    <color name="Page3Bg">#7e1419</color>
-    <color name="Page4Bg">#d81723</color>
-    <color name="Page5Bg">#b4222a</color>
+    <color name="Page1Bg">#880E4F</color>
+    <color name="Page2Bg">#76FF03</color>
+    <color name="Page3Bg">#006064</color>
+    <color name="Page4Bg">#DCE775</color>
+    <color name="Page5Bg">#37474F</color>
 
 </resources>
